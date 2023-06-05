@@ -10,7 +10,7 @@ namespace HeroisViloes.Model.DAO
 {
     class Conexao
     {
-        private static string connString = "Data Source = localhost; Initial Catalog = DB_Herois_viloes3; Integrated Security = true";
+        private static string connString = "Data Source = localhost; Initial Catalog = DB_Herois_viloes; Integrated Security = true";
 
         //Representa a conexao do Banco
         private static SqlConnection conn = null;
