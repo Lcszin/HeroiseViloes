@@ -1,5 +1,1 @@
-Integrantes:
-
- Matheus Tomazeli Mioto Beata - 20220185
- Vitor Buran - 20220043
- Lucas Pinheiro Olhê Borges - 20214906
+Esse é um programa que deve ser introduzido um banco de dados feito em c#, que tem a ideia de cadastrar herois, vilões e Aliados do herói(Exemplo: Robin), feito para ser utilizado de modo local, não tendo conexão com bancos de dados externos e necessitando de que seja feito uma data base no computador onde será usado
